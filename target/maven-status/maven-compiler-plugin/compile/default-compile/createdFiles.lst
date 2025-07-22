@@ -1,0 +1,3 @@
+com\eci\ARSW\VoiceService\config\WebSocketConfig.class
+com\eci\ARSW\VoiceService\VoiceServiceApplication.class
+com\eci\ARSW\VoiceService\webSocket\LlamadaHandler.class
